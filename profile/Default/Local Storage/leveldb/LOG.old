@@ -1,3 +1,6 @@
-2025/05/25-21:43:28.170 2e054c Reusing MANIFEST /Users/phamhung/Documents/frelancer/Edwin/scrape/profile/Default/Local Storage/leveldb/MANIFEST-000001
-2025/05/25-21:43:28.173 2e054c Recovering log #3
-2025/05/25-21:43:28.174 2e054c Reusing old log /Users/phamhung/Documents/frelancer/Edwin/scrape/profile/Default/Local Storage/leveldb/000003.log 
+2025/06/22-17:39:10.376 d4db0 Reusing MANIFEST /Users/phamhung/Documents/frelancer/Edwin/scrape/profile/Default/Local Storage/leveldb/MANIFEST-000001
+2025/06/22-17:39:10.379 d4db0 Recovering log #13
+2025/06/22-17:39:10.380 d4db0 Reusing old log /Users/phamhung/Documents/frelancer/Edwin/scrape/profile/Default/Local Storage/leveldb/000013.log 
+2025/06/22-19:18:11.633 d4db0 Level-0 table #17: started
+2025/06/22-19:18:11.637 d4db0 Level-0 table #17: 11098 bytes OK
+2025/06/22-19:18:11.641 d4db0 Delete type=0 #13
